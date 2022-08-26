@@ -1,0 +1,3 @@
+C:/Users/jeffr/CLionProjects/ListaDobleGenerica/cmake-build-debug/CMakeFiles/ListaDobleGenerica.dir
+C:/Users/jeffr/CLionProjects/ListaDobleGenerica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jeffr/CLionProjects/ListaDobleGenerica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
